@@ -1,3 +1,7 @@
+/.mvn
+/mvnw.cmd
+/mvnw
+/hello-spring-boot.iml
 target/
 pom.xml.tag
 pom.xml.releaseBackup
